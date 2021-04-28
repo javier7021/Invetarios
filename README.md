@@ -1,5 +1,6 @@
 ## BASE DE DATOS DE TIENDA
 
-MI BASE DE DATOS PUEDE SER DE
+LA BASE DE DATOS SERVIRA PARA PONER LOS:-PROVEDORES
+                                        -CLIENTES
+                                        -PRODUCTOS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
